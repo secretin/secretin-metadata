@@ -1,5 +1,5 @@
 # secretin-metadata
-Poke of nodejs usage to validate metadata and keys are ok
+Poc of nodejs usage to validate metadata and keys are ok
 
 `yarn install`
 
